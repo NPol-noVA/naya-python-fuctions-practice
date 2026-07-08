@@ -44,3 +44,12 @@ Average Grade: 90.00
 Enter a student name to search: Bob
 Found: Bob - Grade: 85
 ```
+```
+yarb - 100
+noya - 88
+paul -
+jack -
+average = 87.0
+-finding jack,laya,JACK
+jack is found but JACK isn't because of case-sensetive
+--- Student Report ---
